@@ -30,6 +30,10 @@ https://weather-broker-cdn.api.bbci.co.uk/en/observation/rss/3042091"
 	Jframe, threads to simulate balls moving around the screen colliding with the walls. speed can be set
 # pong game
 uses java 8 applets (now deprecated)
+
+# simple bank app
+simple swing application to simulate withdrawing and depositing from a bank account
+
 # bingo
 	socket server creates a new ball with random number and sends it to client
 	(does not work instantly/everytime) 
